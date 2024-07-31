@@ -1,0 +1,16 @@
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.exe
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankManagementSystem.mdf
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankManagementSystem_log.ldf
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.exe.config
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csproj.AssemblyReference.cache
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.FrmHome.resources
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Properties.Resources.resources
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.UI.frmUsers.resources
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csproj.GenerateResource.cache
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.exe
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.pdb
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.pdb
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.UI.frmDonors.resources
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.UI.frmLogin.resources
+C:\Users\CUI\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.UI.frmSplash.resources
